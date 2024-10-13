@@ -1,0 +1,14 @@
+C:\Users\사동혁\Desktop\c# study\클래스\클래스\bin\Debug\net8.0\클래스.exe
+C:\Users\사동혁\Desktop\c# study\클래스\클래스\bin\Debug\net8.0\클래스.deps.json
+C:\Users\사동혁\Desktop\c# study\클래스\클래스\bin\Debug\net8.0\클래스.runtimeconfig.json
+C:\Users\사동혁\Desktop\c# study\클래스\클래스\bin\Debug\net8.0\클래스.dll
+C:\Users\사동혁\Desktop\c# study\클래스\클래스\bin\Debug\net8.0\클래스.pdb
+C:\Users\사동혁\Desktop\c# study\클래스\클래스\obj\Debug\net8.0\클래스.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\사동혁\Desktop\c# study\클래스\클래스\obj\Debug\net8.0\클래스.AssemblyInfoInputs.cache
+C:\Users\사동혁\Desktop\c# study\클래스\클래스\obj\Debug\net8.0\클래스.AssemblyInfo.cs
+C:\Users\사동혁\Desktop\c# study\클래스\클래스\obj\Debug\net8.0\클래스.csproj.CoreCompileInputs.cache
+C:\Users\사동혁\Desktop\c# study\클래스\클래스\obj\Debug\net8.0\클래스.dll
+C:\Users\사동혁\Desktop\c# study\클래스\클래스\obj\Debug\net8.0\refint\클래스.dll
+C:\Users\사동혁\Desktop\c# study\클래스\클래스\obj\Debug\net8.0\클래스.pdb
+C:\Users\사동혁\Desktop\c# study\클래스\클래스\obj\Debug\net8.0\클래스.genruntimeconfig.cache
+C:\Users\사동혁\Desktop\c# study\클래스\클래스\obj\Debug\net8.0\ref\클래스.dll
