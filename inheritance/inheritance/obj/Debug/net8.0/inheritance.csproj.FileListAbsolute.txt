@@ -1,0 +1,14 @@
+C:\Users\SaDongHuck\Desktop\c#\inheritance\inheritance\bin\Debug\net8.0\inheritance.exe
+C:\Users\SaDongHuck\Desktop\c#\inheritance\inheritance\bin\Debug\net8.0\inheritance.deps.json
+C:\Users\SaDongHuck\Desktop\c#\inheritance\inheritance\bin\Debug\net8.0\inheritance.runtimeconfig.json
+C:\Users\SaDongHuck\Desktop\c#\inheritance\inheritance\bin\Debug\net8.0\inheritance.dll
+C:\Users\SaDongHuck\Desktop\c#\inheritance\inheritance\bin\Debug\net8.0\inheritance.pdb
+C:\Users\SaDongHuck\Desktop\c#\inheritance\inheritance\obj\Debug\net8.0\inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SaDongHuck\Desktop\c#\inheritance\inheritance\obj\Debug\net8.0\inheritance.AssemblyInfoInputs.cache
+C:\Users\SaDongHuck\Desktop\c#\inheritance\inheritance\obj\Debug\net8.0\inheritance.AssemblyInfo.cs
+C:\Users\SaDongHuck\Desktop\c#\inheritance\inheritance\obj\Debug\net8.0\inheritance.csproj.CoreCompileInputs.cache
+C:\Users\SaDongHuck\Desktop\c#\inheritance\inheritance\obj\Debug\net8.0\inheritance.dll
+C:\Users\SaDongHuck\Desktop\c#\inheritance\inheritance\obj\Debug\net8.0\refint\inheritance.dll
+C:\Users\SaDongHuck\Desktop\c#\inheritance\inheritance\obj\Debug\net8.0\inheritance.pdb
+C:\Users\SaDongHuck\Desktop\c#\inheritance\inheritance\obj\Debug\net8.0\inheritance.genruntimeconfig.cache
+C:\Users\SaDongHuck\Desktop\c#\inheritance\inheritance\obj\Debug\net8.0\ref\inheritance.dll
