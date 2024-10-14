@@ -1,0 +1,14 @@
+C:\Users\SaDongHuck\Desktop\c#\추상클래스\추상클래스\bin\Debug\net8.0\추상클래스.exe
+C:\Users\SaDongHuck\Desktop\c#\추상클래스\추상클래스\bin\Debug\net8.0\추상클래스.deps.json
+C:\Users\SaDongHuck\Desktop\c#\추상클래스\추상클래스\bin\Debug\net8.0\추상클래스.runtimeconfig.json
+C:\Users\SaDongHuck\Desktop\c#\추상클래스\추상클래스\bin\Debug\net8.0\추상클래스.dll
+C:\Users\SaDongHuck\Desktop\c#\추상클래스\추상클래스\bin\Debug\net8.0\추상클래스.pdb
+C:\Users\SaDongHuck\Desktop\c#\추상클래스\추상클래스\obj\Debug\net8.0\추상클래스.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SaDongHuck\Desktop\c#\추상클래스\추상클래스\obj\Debug\net8.0\추상클래스.AssemblyInfoInputs.cache
+C:\Users\SaDongHuck\Desktop\c#\추상클래스\추상클래스\obj\Debug\net8.0\추상클래스.AssemblyInfo.cs
+C:\Users\SaDongHuck\Desktop\c#\추상클래스\추상클래스\obj\Debug\net8.0\추상클래스.csproj.CoreCompileInputs.cache
+C:\Users\SaDongHuck\Desktop\c#\추상클래스\추상클래스\obj\Debug\net8.0\추상클래스.dll
+C:\Users\SaDongHuck\Desktop\c#\추상클래스\추상클래스\obj\Debug\net8.0\refint\추상클래스.dll
+C:\Users\SaDongHuck\Desktop\c#\추상클래스\추상클래스\obj\Debug\net8.0\추상클래스.pdb
+C:\Users\SaDongHuck\Desktop\c#\추상클래스\추상클래스\obj\Debug\net8.0\추상클래스.genruntimeconfig.cache
+C:\Users\SaDongHuck\Desktop\c#\추상클래스\추상클래스\obj\Debug\net8.0\ref\추상클래스.dll
